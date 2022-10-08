@@ -1,0 +1,24 @@
+.container {
+    background-color: #282c34;
+    color: #fff;
+    padding: 40px;
+    font-family: Arial;
+    text-align: center;
+    height: 100vh;
+  }
+  
+  .logo {
+    width: 200px;
+  }
+  
+  .logo:hover {
+    width: 250px;
+  }
+  
+  .header {
+    color: purple;
+  }
+  
+  .primary {
+    color: salmon;
+  }

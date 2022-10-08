@@ -1,0 +1,8 @@
+.default {
+    margin:24px 12px;
+    text-align: center;
+    padding: 12px 24px;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 18px;
+}
